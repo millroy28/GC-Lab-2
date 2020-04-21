@@ -1,0 +1,12 @@
+C:\Users\millr\source\repos\GC Lab 2 RM\GC Lab 2 RM\obj\Debug\netcoreapp3.1\GC Lab 2 RM.csproj.CoreCompileInputs.cache
+C:\Users\millr\source\repos\GC Lab 2 RM\GC Lab 2 RM\obj\Debug\netcoreapp3.1\GC Lab 2 RM.AssemblyInfoInputs.cache
+C:\Users\millr\source\repos\GC Lab 2 RM\GC Lab 2 RM\obj\Debug\netcoreapp3.1\GC Lab 2 RM.AssemblyInfo.cs
+C:\Users\millr\source\repos\GC Lab 2 RM\GC Lab 2 RM\bin\Debug\netcoreapp3.1\GC Lab 2 RM.exe
+C:\Users\millr\source\repos\GC Lab 2 RM\GC Lab 2 RM\bin\Debug\netcoreapp3.1\GC Lab 2 RM.deps.json
+C:\Users\millr\source\repos\GC Lab 2 RM\GC Lab 2 RM\bin\Debug\netcoreapp3.1\GC Lab 2 RM.runtimeconfig.json
+C:\Users\millr\source\repos\GC Lab 2 RM\GC Lab 2 RM\bin\Debug\netcoreapp3.1\GC Lab 2 RM.runtimeconfig.dev.json
+C:\Users\millr\source\repos\GC Lab 2 RM\GC Lab 2 RM\bin\Debug\netcoreapp3.1\GC Lab 2 RM.dll
+C:\Users\millr\source\repos\GC Lab 2 RM\GC Lab 2 RM\bin\Debug\netcoreapp3.1\GC Lab 2 RM.pdb
+C:\Users\millr\source\repos\GC Lab 2 RM\GC Lab 2 RM\obj\Debug\netcoreapp3.1\GC Lab 2 RM.dll
+C:\Users\millr\source\repos\GC Lab 2 RM\GC Lab 2 RM\obj\Debug\netcoreapp3.1\GC Lab 2 RM.pdb
+C:\Users\millr\source\repos\GC Lab 2 RM\GC Lab 2 RM\obj\Debug\netcoreapp3.1\GC Lab 2 RM.genruntimeconfig.cache
